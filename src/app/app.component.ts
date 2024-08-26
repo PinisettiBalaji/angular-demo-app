@@ -9,57 +9,65 @@ export class AppComponent {
 
   latestProducts = [{
     "id": 1,
-    "name": "Pimento - Canned",
-    "price": 20,
-    "description": "massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum"
+    "name": "Bananas",
+    "description": "placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede",
+    "price": 53,
+    "thumbnail": "http://dummyimage.com/250x250.png/dddddd/000000"
   }, {
     "id": 2,
-    "name": "Lemonade - Strawberry, 591 Ml",
-    "price": 95,
-    "description": "quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo"
+    "name": "Sea Bass - Whole",
+    "description": "aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat",
+    "price": 60,
+    "thumbnail": "http://dummyimage.com/250x250.png/cc0000/ffffff"
   }, {
     "id": 3,
-    "name": "Nescafe - Frothy French Vanilla",
-    "price": 50,
-    "description": "cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque"
+    "name": "Fish - Soup Base, Bouillon",
+    "description": "amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris",
+    "price": 59,
+    "thumbnail": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
   }, {
     "id": 4,
-    "name": "Prunes - Pitted",
-    "price": 24,
-    "description": "viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus"
+    "name": "Bread - Focaccia Quarter",
+    "description": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis",
+    "price": 31,
+    "thumbnail": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
   }, {
     "id": 5,
-    "name": "Wine - Fino Tio Pepe Gonzalez",
-    "price": 94,
-    "description": "penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum"
+    "name": "Water - Tonic",
+    "description": "proin eu mi nulla ac enim in tempor turpis nec",
+    "price": 57,
+    "thumbnail": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
   }, {
     "id": 6,
-    "name": "Soap - Mr.clean Floor Soap",
-    "price": 37,
-    "description": "non pretium quis lectus suspendisse potenti in eleifend quam a odio in"
+    "name": "Hold Up Tool Storage Rack",
+    "description": "purus aliquet at feugiat non pretium quis lectus suspendisse potenti in",
+    "price": 17,
+    "thumbnail": "http://dummyimage.com/250x250.png/dddddd/000000"
   }, {
     "id": 7,
-    "name": "Kippers - Smoked",
-    "price": 78,
-    "description": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus"
+    "name": "Zucchini - Mini, Green",
+    "description": "sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac",
+    "price": 67,
+    "thumbnail": "http://dummyimage.com/250x250.png/dddddd/000000"
   }, {
     "id": 8,
-    "name": "Mudslide",
-    "price": 6,
-    "description": "elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus"
+    "name": "Sping Loaded Cup Dispenser",
+    "description": "mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at",
+    "price": 54,
+    "thumbnail": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
   }, {
     "id": 9,
-    "name": "Containter - 3oz Microwave Rect.",
-    "price": 20,
-    "description": "id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus"
+    "name": "Beef - Striploin",
+    "description": "leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue",
+    "price": 88,
+    "thumbnail": "http://dummyimage.com/250x250.png/dddddd/000000"
   }, {
     "id": 10,
-    "name": "Lamb - Whole Head Off,nz",
-    "price": 39,
-    "description": "interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus"
+    "name": "Cocoa Feuilletine",
+    "description": "ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet",
+    "price": 57,
+    "thumbnail": "http://dummyimage.com/250x250.png/5fa2dd/ffffff"
   }]
-
-
 
   topProducts = [{
     "id": 1,
